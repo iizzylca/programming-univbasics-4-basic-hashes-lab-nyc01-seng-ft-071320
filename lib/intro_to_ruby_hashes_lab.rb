@@ -8,6 +8,7 @@ def my_hash
 end
 
 def pioneer
+  binding.pry
 
 end
 
